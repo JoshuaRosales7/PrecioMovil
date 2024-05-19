@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "695782239065",
+    "project_id": "preciomovil-83811",
+    "storage_bucket": "preciomovil-83811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695782239065:android:7d737aef222d36992fba48",
+        "android_client_info": {
+          "package_name": "com.example.preciomovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695782239065-mu2gc6vudg173dv3gcsirk3q2m6oau3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJAye4VwmiPNJiUrIGcEpyKxVAR_fp5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695782239065-mu2gc6vudg173dv3gcsirk3q2m6oau3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "695782239065-vfir253c58easonoojp2vuqvj185thbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.preciomovil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
