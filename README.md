@@ -37,6 +37,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu-correo-electronico@ejemplo.com].
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [joshurarosales2210207@gmail.com].
 
-Recuerda que este es un ejemplo básico de README, y puedes personalizarlo según tus necesidades, agregando más detalles sobre la aplicación, capturas de pantalla, instrucciones de uso, etc.
+
